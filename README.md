@@ -14,6 +14,10 @@ This project utilizes Airbnb data from the city of Toronto, ON, Canada, to find 
 
 - [Airbnb Neighbourhood Analysis](https://public.tableau.com/views/TorontoAirbnbAnalysis_16863412362360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<p align="center">
+<img src="https://i.imgur.com/8Qrg75h.jpeg" height="70%" width="70%" alt=""/>
+<br />
+
 <h2>Findings:</h2>
 Based on the criteria for analysis those are the 5 best neighbourhoods to start and Airbnb.
 
@@ -31,7 +35,7 @@ Based on the criteria for analysis those are the 5 best neighbourhoods to start 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8Qrg75h.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
