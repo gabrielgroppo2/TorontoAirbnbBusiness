@@ -34,30 +34,30 @@ Based on the criteria for analysis those are the 5 best neighbourhoods to start 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/8Qrg75h.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Organizing and Cleaning the Data: <br/>
+<img src="https://i.imgur.com/gjDfAmX.png" height="70%" width="70%" alt=""/>
+<img src="https://i.imgur.com/Rj1po6m.png" height="70%" width="70%" alt=""/>
+<br />
+<p align="left">
+  Some important points from cleaning and understanding the dataset.
+
+- The data is from 2010 to 2023 - for being accurate I will only use data from the last 5 years (2019 to 2023)
+- The analysis will be of 11,489 listings and 7,665 hosts
+- There is at least one listing for every neighbourhood
+
+<p align="center"> 
+<br />
+Exploratory Data Analysis: <br/>
+<img src="https://i.imgur.com/bb3npbF.png" height="70%" width="70%" alt=""/>
+<img src="https://i.imgur.com/FXxNKT5.png" height="70%" width="70%" alt=""/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Table to be Exported to Tableau (For dashboard creation):  <br/>
+<img src="https://i.imgur.com/yT5V2du.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+  
+<p align="left">
+Some important thing from the EDA to keep in mind during the analysis:
+
+- Average occupancy rate is 57%
+- Average number of listings per neighbourhood is 118
