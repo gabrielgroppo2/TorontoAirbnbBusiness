@@ -4,15 +4,15 @@
 This project utilizes Airbnb data from the city of Toronto, ON, Canada, to find the best neighbourhood in town for starting an Airbnb business. Using SQL for data cleaning and exploration and Tableau to create a dashboard that compares neighbourhoods based on Yearly Revenue, Occupancy Rates, Prices per night and Competition.
 <br />
 
-
 <h2>Languages and Technology Used</h2>
 
 - <b>SQL</b> 
 - <b>Tableau</b>
 
 <h2>Dashboard:</h2>
-- [Toronto Neighbourhood Airbnb Analysis](https://public.tableau.com/views/TorontoAirbnbAnalysis_16863412362360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+- [Airbnb Neighbourhood Analysis](https://public.tableau.com/views/TorontoAirbnbAnalysis_16863412362360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  
 <h2>Project walk-through:</h2>
 
 <p align="center">
@@ -43,13 +43,3 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
