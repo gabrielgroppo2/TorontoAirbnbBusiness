@@ -30,8 +30,9 @@ Based on the criteria for analysis those are the 5 best neighbourhoods to start 
 | Niagara | 643 | 32K | 69% |
 
 *Please note that further analyis on the cost of property and factors like access to public transportation, tourist attractions and overall state of the community, this project is a starting point and the findings need to be further evaluated before making an investment decision.*
+
   
-<h2>Project walk-through:</h2>
+<h2>Project PostgreSQL Code:</h2>
 
 <p align="center">
 Organizing and Cleaning the Data: <br/>
