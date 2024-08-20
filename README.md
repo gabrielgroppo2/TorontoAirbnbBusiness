@@ -5,12 +5,15 @@ This project utilizes Airbnb data from the city of Toronto, ON, Canada, to find 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Technology Used</h2>
 
 - <b>SQL</b> 
 - <b>Tableau</b>
 
-<h2>Program walk-through:</h2>
+<h2>Dashboard:</h2>
+
+
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
