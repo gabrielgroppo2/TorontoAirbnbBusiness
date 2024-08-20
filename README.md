@@ -11,7 +11,7 @@ This project utilizes Airbnb data from the city of Toronto, ON, Canada, to find 
 - <b>Tableau</b>
 
 <h2>Dashboard:</h2>
-
+- [Toronto Neighbourhood Airbnb Analysis](https://public.tableau.com/views/TorontoAirbnbAnalysis_16863412362360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <h2>Project walk-through:</h2>
 
