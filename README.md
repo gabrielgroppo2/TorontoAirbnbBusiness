@@ -1,7 +1,7 @@
 <h1>Toronto Airbnb Business</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project utilizes Airbnb data from the city of Toronto, ON, Canada, to find the best neighbourhood in town for starting an Airbnb business. Using SQL for data cleaning and exploration and Tableau to create a dashboard that compares neighbourhoods based on Yearly Revenue, Occupancy Rates, Prices per night and Competition.
 <br />
 
 
